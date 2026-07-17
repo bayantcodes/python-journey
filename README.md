@@ -13,5 +13,8 @@ This repository contains my daily Python practice and coding journey.
 - Operators
 - Strings
 - If Statements
+- Else Statements
+- For loop
+- While loop
 
 🚀 More updates coming soon!
