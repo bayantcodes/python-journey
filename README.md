@@ -63,14 +63,16 @@ This repository contains my day-wise Python learning journey and coding practice
 ### Topics Covered
 - For Loop
 - While Loop
+- Nested Loop
+- Star Pattern
 
 ### Files
 - for_loop.py
 - while_loop.py
+- nested_loops.py
+- star_patterns.py
 
-### 🔄 Upcoming Topics (Will be added in Day-04)
-- Nested Loops
-- Star Patterns
+### 🔄 Upcoming Topics (Day-05)
 - Break Statement
 - Continue Statement
 - Pass Statement
