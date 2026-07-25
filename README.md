@@ -71,10 +71,10 @@ This repository contains my day-wise Python learning journey and coding practice
 - while_loop.py
 - nested_loops.py
 - star_patterns.py
+- Break statement
+- Continue statement
 
 ### 🔄 Upcoming Topics (Day-05)
-- Break Statement
-- Continue Statement
 - Pass Statement
 
 ---
