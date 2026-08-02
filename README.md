@@ -77,6 +77,25 @@ This repository contains my day-wise Python learning journey and coding practice
 - pass.py
 
 ---
+## 📅 Day-05
+
+### Topics Covered
+- Functions
+- Function Calling
+- Parameters
+- Return Statement
+- Required Arguments
+- Keyword Arguments
+- Default Arguments
+- Variable Length Arguments (*args)
+- Arbitrary Keyword Arguments (**kwargs)
+- Function Practice Questions
+
+### Files
+- functions.py
+- functions_arguments.py
+- practice_question.py
+
 
 # 🎯 Goal
 
