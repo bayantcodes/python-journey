@@ -96,6 +96,18 @@ This repository contains my day-wise Python learning journey and coding practice
 - functions_arguments.py
 - practice_question.py
 
+---
+## 📅 Day-06
+
+### Topics Covered
+- List
+- List methods
+- List Practice Questions
+
+### Files
+- lists.py
+- list_methods.py
+- practice_questions.py
 
 # 🎯 Goal
 
