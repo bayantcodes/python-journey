@@ -109,6 +109,34 @@ This repository contains my day-wise Python learning journey and coding practice
 - list_methods.py
 - practice_questions.py
 
+---
+---
+
+## 📅 Day-07
+
+### Topics Covered
+- Tuples
+- Creating Tuples
+- Empty Tuple
+- Single-Element Tuple
+- Tuple Indexing
+- Negative Indexing
+- Tuple Slicing
+- Reversing a Tuple
+- Nested Tuples
+- Tuple Immutability
+- Tuple to List and List to Tuple Conversion
+- Tuple Methods
+- `count()` Method
+- `index()` Method
+- List vs Tuple
+- Tuple Practice Questions
+
+### Files
+- tuples.py
+- tuple_methods.py
+- practice_questions.py
+
 # 🎯 Goal
 
 Build a strong foundation in Python before moving to:
